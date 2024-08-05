@@ -23,3 +23,8 @@ Project Steps:
 7. Creating a Gantt Chart for reloadtasks
 8. Analysing task overlaps
 
+Requirements:
+Qlik Sense UserID
+Qlik Sense User Directory
+Qlik sense Server Adress
+Certificates: client.pem, client_key.pem (Can be exported from QMC)
